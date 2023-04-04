@@ -25,5 +25,10 @@ Voici le squelette depuis lequel vous allez partir:
 </html>
 ~~~
 
+Vous aller placer ce code dans un répertoire vide, et vous allez rajouter dans ce répertoire un fichier vide `weather.js` dans lequel vous devrez écrire le code JavaScript. Pour tester votre code, vous utiliserez un navigateur classique (Chrome ou Firefox avec le module Firebug).
 
+Votre objectif va être de réagir aux clics sur les boutons pour aller chercher sur le site de [prevision-meteo.ch](https://www.prevision-meteo.ch/services) le flux de données JSON qui correspond au texte saisi par l'utilisateur, et afficher dans l'élément `div` les données météos récupérées depuis l'API. Une fois que vous avez réussi, essayer d'améliorer l'ergonomie autant que possible (images, auto-complétion, ...).
 
+## Correction
+
+Il suffit d'ouvrir le fichier `index.html` à l'aide d'un navigateur récent.
