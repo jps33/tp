@@ -40,3 +40,6 @@ npm install express --save
 npm install nodemon —-save
 ~~~
 
+## Correction
+
+Vous devez lancer `npm install` avant de faire tourner le code. Enfin, vous pouvez lancer le serveur avec la commande `npm start`.
