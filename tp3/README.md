@@ -55,6 +55,6 @@ N’oubliez pas également de faire votre `npm init` et de modifier votre `packa
 npm init
 npm install express --save
 npm install body-parser --save
-npm install nodemon —-save
-npm install mongodb —-save
+npm install nodemon --save
+npm install mongodb --save
 ~~~
